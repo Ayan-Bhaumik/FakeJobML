@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+venv312/
+wheels/
+.env
+.env.local
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Matplotlib config
+mpl_config/
+
+# Results output
+results/
+*.png
+*.csv
+
+# Dataset (large file - download from Kaggle)
+dataset/fake_job_postings.csv
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python distribution
+*.egg-info/
+dist/
+build/
+*.egg
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Conda
+.conda/
+
+# Environment variables (secrets)
+*.env
+*.env.*
+
+# Keep these files (do not ignore)
+!.gitignore
+!README.md
+!MANUSCRIPT.md
+!requirements.txt
+!fake_job_detection.ipynb
+!run_pipeline_fast.py
+!generate_feature_importance.py

@@ -1,0 +1,27 @@
+# Core ML / Data Science
+pandas==3.0.5
+numpy==2.5.2
+scikit-learn==1.9.0
+scipy==1.14.1
+
+# Gradient Boosting
+xgboost==3.4.1
+
+# Imbalanced Learning
+imbalanced-learn==0.14.2
+
+# NLP
+nltk==3.10.3
+
+# Visualization
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Jupyter
+jupyter==1.1.1
+nbformat==5.11.1
+ipykernel==7.3.0
+
+# Utilities
+joblib==1.4.2
+threadpoolctl>=3.5.0
