@@ -214,4 +214,7 @@ For academic research purposes. Dataset from Kaggle (EMSCAD).
 
 ## 👤 Author
 
-Research project for Fake Job Posting Detection Using Machine Learning: A Comparative Study
+**Ayan Bhaumik**  
+📧 mrayanbhaumik@gmail.com / connect@ayanbhaumik.in
+
+*Research project for Fake Job Posting Detection Using Machine Learning: A Comparative Study*

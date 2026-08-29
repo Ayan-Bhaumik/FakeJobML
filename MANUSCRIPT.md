@@ -273,4 +273,7 @@ ls results/
 
 ---
 
+**Author:** Ayan Bhaumik  
+**Email:** mrayanbhaumik@gmail.com / connect@ayanbhaumik.in
+
 *Manuscript prepared for: A Hybrid Machine Learning Framework for Detecting Fraudulent Online Job Postings*
